@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-invopop-yaml (0.2.0-2) unstable; urgency=medium
 
-  * Initial release
+  * Source-only upload for migration to testing
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Anthony Fok <foka@debian.org>  Thu, 23 Jun 2022 21:35:57 -0600
+
+golang-github-invopop-yaml (0.2.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1013173)
+
+ -- Anthony Fok <foka@debian.org>  Sat, 18 Jun 2022 04:44:18 -0600
